@@ -1,6 +1,6 @@
 # BudgetWise
 
-A full-stack React web-app created for keeping track of your daily finances.
+A full-stack React web-app created for keeping track of your daily finances and bills.
 Technologies used: React, Redux, FirebaseDB, Google Authentication, AirBnB API.
 
 ## Check it out at https://budget-wise.herokuapp.com/
